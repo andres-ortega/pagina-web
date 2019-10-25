@@ -9,7 +9,7 @@
         <meta charset="utf-8">
 		<!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Blue One Page HTML Template</title>		
+        <title>Support Effect</title>		
 		<!-- Meta Description -->
         <meta name="description" content="Blue One Page Creative HTML5 Template">
         <meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
@@ -70,7 +70,7 @@
 					
 					<!-- logo -->
 					<h1 class="navbar-brand">
-						<a href="#body">Blue</a>
+						<a href="#body">Support Effect</a>
 					</h1>
 					<!-- /logo -->
                 </div>
@@ -78,12 +78,12 @@
 				<!-- main nav -->
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <ul id="nav" class="nav navbar-nav">
-                        <li><a href="#body">Home</a></li>
-                        <li><a href="#service">Service</a></li>
-                        <li><a href="#portfolio">portfolio</a></li>
+                        <li><a href="#body">Inicio</a></li>
+                        <li><a href="#service">Servicios</a></li>
+                        <li><a href="#portfolio">portafolio</a></li>
                         <li><a href="#testimonials">Testimonial</a></li>
-                        <li><a href="#price">price</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#price">precio</a></li>
+                        <li><a href="#contact">Contáctanos</a></li>
                     </ul>
                 </nav>
 				<!-- /main nav -->
@@ -111,9 +111,9 @@
 
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown">BLUE Onepage HTML5 Template</h2>
-                                <span class="animated fadeInDown">Clean and Professional one page Template</span>
-                                <a href="#" class="btn btn-blue btn-effect">Join US</a>
+                                <h2 class="animated fadeInDown">Support Effect</h2>
+                                <span class="animated fadeInDown">Calidad hecha código</span>
+                                <a href="#contact" class="btn btn-blue btn-effect">Contáctanos</a>
                             </div>
                         </div>
 						
@@ -126,7 +126,7 @@
                             <div class="caption-content">
                                 <h2>BLUE Onepage HTML5 Template</h2>
                                 <span>Clean and Professional one page Template</span>
-                                <a href="#" class="btn btn-blue btn-effect">Join US</a>
+                                <a href="#contact" class="btn btn-blue btn-effect">Join US</a>
                             </div>
                         </div>
 						
@@ -139,7 +139,7 @@
                             <div class="caption-content">
                                 <h2>BLUE Onepage HTML5 Template</h2>
                                 <span>Clean and Professional one page Template</span>
-                                <a href="#" class="btn btn-blue btn-effect">Join US</a>
+                                <a href="#contact" class="btn btn-blue btn-effect">Join US</a>
                             </div>
                         </div>
 
@@ -300,7 +300,7 @@
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
 								</figcaption>
 								<ul class="external">
-									<li><a class="fancybox" title="Wall street" href="img/slider/banner.jpg" data-fancybox-group="works" ><i class="fa fa-search"></i></a></li>
+									<li><a class="fancybox" title="Wall street" href="img/mas/1.jpg" data-fancybox-group="works" ><i class="fa fa-search"></i></a></li>
 									<li><a href=""><i class="fa fa-link"></i></a></li>
 								</ul>
 							</li>
