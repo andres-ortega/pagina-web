@@ -508,32 +508,32 @@ h1.navbar-brand {
 }
 
 /*=================================================================
-	About
+	acerca
 ==================================================================*/
 
-#about {
+#acerca {
     background-color: #009EE3;
     color: #fff;
 }
 
-#about h3 {
+#acerca h3 {
     color: #fff;
     margin: 0 0 35px;
     text-transform: uppercase;
 }
 
-#about .welcome-block h3 {
+#acerca .welcome-block h3 {
     margin: 0 0 65px;
 }
 
-#about .welcome-block img {
+#acerca .welcome-block img {
     border: 3px solid #fff;
     border-radius: 50%;
     margin-right: 35px;
     max-width: 100px;
 }
 
-#about .message-body {
+#acerca .message-body {
     font-size: 13px;
     line-height: 20px;
     margin-bottom: 70px;
@@ -1140,8 +1140,8 @@ textarea.form-control {
 
 @media (min-width: 980px) and (max-width: 1150px) {
 
-/*about*/
-    #about .welcome-block img {
+/*acerca*/
+    #acerca .welcome-block img {
         margin-bottom: 30px;
     }
 
@@ -1175,7 +1175,7 @@ textarea.form-control {
         font-size: 45px;
     }
 
-/* about */
+/* acerca */
     .recent-works {
         margin-bottom: 50px;
     }
@@ -1265,25 +1265,25 @@ textarea.form-control {
         font-size: 22px;
     }
 
-/* about */
+/* acerca */
     .recent-works {
         margin-bottom: 85px;
     }
 
-    #about h3 {
+    #acerca h3 {
         font-size: 18px;
         margin: 0 0 35px !important;
     }
 
-    #about .owl-buttons {
+    #acerca .owl-buttons {
         margin-top: 20px;
     }
 
-    #about .message-body {
+    #acerca .message-body {
         margin-bottom: 45px;
     }
 
-    #about .welcome-block img {
+    #acerca .welcome-block img {
         margin: 0 25px 15px 0;
     }
 
@@ -1383,9 +1383,9 @@ textarea.form-control {
         font-size: 35px;
     }
 
-/*about*/
+/*acerca*/
 
-    #about .welcome-block h3 {
+    #acerca .welcome-block h3 {
         margin: 0 0 35px;
     }
 
