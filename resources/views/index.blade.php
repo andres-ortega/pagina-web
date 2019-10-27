@@ -80,9 +80,6 @@
                     <ul id="nav" class="nav navbar-nav">
                         <li><a href="#body">Inicio</a></li>
                         <li><a href="#service">Servicios</a></li>
-                        <li><a href="#portfolio">portafolio</a></li>
-                        <li><a href="#testimonials">Testimonial</a></li>
-                        <li><a href="#price">precio</a></li>
                         <li><a href="#contact">Contáctanos</a></li>
                     </ul>
                 </nav>
@@ -188,8 +185,10 @@
 								<h3>¿Por qué Support Effect?</h3>								
 						     	 <div class="message-body">
 									<img src="img/soporte-cliente.png" class="pull-left" alt="member">
-						       		<p>	La eficiencia y eficacia de nuestras soluciones, son producto de nuestro compromiso con valores sólidos corporativos y con cada objetivo de nuestros clientes.
-										Luchamos por relaciones a largo plazo fundamentadas en la calidad del servicio y la visión del futuro. </p>
+						       		<p>	La eficiencia y eficacia de nuestras soluciones, son producto de nuestro compromiso con valores sólidos corporativos y con cada objetivo de nuestros clientes. <br>
+										Luchamos por relaciones a largo plazo fundamentadas en la calidad del servicio y la visión del futuro. <br> Tenemos una visión clara y un proceso ordenado 
+										que nos permitirá conocer sus necesidades y expectativas para poder ayudarlo.
+									 </p>
 						     	 </div>
 						    </div>
 						</div>
@@ -205,48 +204,48 @@
 					<div class="row">
 					
 						<div class="sec-title text-center">
-							<h2 class="wow animated bounceInLeft">Service</h2>
-							<p class="wow animated bounceInRight">The Key Features of our Job</p>
+							<h2 class="wow animated bounceInLeft">Servicios</h2>
+							<p class="wow animated bounceInRight">Características clave de nuestro trabajo.</p>
 						</div>
 						
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
 							<div class="service-item">
 								<div class="service-icon">
-									<i class="fa fa-home fa-5x"></i>
+									<i class="fa fa-laptop fa-3x"></i>
 								</div>
-								<h3>Support hola</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+								<h3>Creación Página web</h3>
+								<p>Diseñamos y creamos su página web conforme al estilo de su marca para resaltar su imagen corporativa. </p>
 							</div>
 						</div>
 					
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.3s">
 							<div class="service-item">
 								<div class="service-icon">
-									<i class="fa fa-tasks fa-3x"></i>
+									<i class="fa fa-list-alt fa-3x"></i>
 								</div>
-								<h3>Well Documented</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+								<h3>Trabajos Universitarios en Programación</h3>
+								<p>Realización de Trabajos Universitarios de Programación Java, PHP, HTML, BOOTSTRAP, CSS y MySQL. </p>
 							</div>
 						</div>
 					
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.6s">
 							<div class="service-item">
 								<div class="service-icon">
-									<i class="fa fa-clock-o fa-3x"></i>
+									<i class="fa fa-book fa-3x"></i>
 								</div>
-								<h3>Design UI/UX</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+								<h3>Trabajos académicos y multimedia</h3>
+								<p>Trabajos relacionados con el Paquete Office(Word, Excel, PowerPoint) y edición de videos. </p>
 							</div>
 						</div>
 					
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.9s">
 							<div class="service-item">
 								<div class="service-icon">
-									<i class="fa fa-heart fa-3x"></i>
+									<i class="fa fa-desktop fa-3x"></i>
 								</div>
 								
-								<h3>Web Security</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>							
+								<h3>Formateo y Mantenimiento a Equipos de Cómputo</h3>
+								<p>Formateo y Mantenimiento Preventivo y Correctivo a Equipos de Cómputo.</p>							
 							</div>
 						</div>
 						
@@ -255,205 +254,7 @@
 			</section>
 			<!-- end Service section -->
 			
-			<!-- portfolio section -->
-			<section id="portfolio">
-				<div class="container">
-					<div class="row">
-					
-						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>FEATURED PROJECTS</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-						</div>
 						
-
-						<ul class="project-wrapper wow animated fadeInUp">
-							<li class="portfolio-item">
-								<img src="img/portfolio/item.jpg" class="img-responsive" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat">
-								<figcaption class="mask">
-									<h3>Wall street</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
-								</figcaption>
-								<ul class="external">
-									<li><a class="fancybox" title="Araund The world" data-fancybox-group="works" href="img/portfolio/item.jpg"><i class="fa fa-search"></i></a></li>
-									<li><a href=""><i class="fa fa-link"></i></a></li>
-								</ul>
-							</li>
-							
-							<li class="portfolio-item">
-								<img src="img/portfolio/item2.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
-								<figcaption class="mask">
-									<h3>Wall street</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
-								</figcaption>
-								<ul class="external">
-									<li><a class="fancybox" title="Wall street" href="img/mas/1.jpg" data-fancybox-group="works" ><i class="fa fa-search"></i></a></li>
-									<li><a href=""><i class="fa fa-link"></i></a></li>
-								</ul>
-							</li>
-							
-							<li class="portfolio-item">
-								<img src="img/portfolio/item3.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
-								<figcaption class="mask">
-									<h3>Wall street</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
-								</figcaption>
-								<ul class="external">
-									<li><a class="fancybox" title="Behind The world" data-fancybox-group="works" href="img/portfolio/item3.jpg"><i class="fa fa-search"></i></a></li>
-									<li><a href=""><i class="fa fa-link"></i></a></li>
-								</ul>
-							</li>
-							
-							<li class="portfolio-item">
-								<img src="img/portfolio/item4.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry.">
-								<figcaption class="mask">
-									<h3>Wall street</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
-								</figcaption>
-								<ul class="external">
-									<li><a class="fancybox" title="Wall street 4" data-fancybox-group="works" href="img/portfolio/item4.jpg"><i class="fa fa-search"></i></a></li>
-									<li><a href=""><i class="fa fa-link"></i></a></li>
-								</ul>
-							</li>
-							
-							<li class="portfolio-item">
-								<img src="img/portfolio/item5.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
-								<figcaption class="mask">
-									<h3>Wall street</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
-								</figcaption>
-								<ul class="external">
-									<li><a class="fancybox" title="Wall street 5" data-fancybox-group="works" href="img/portfolio/item5.jpg"><i class="fa fa-search"></i></a></li>
-									<li><a href=""><i class="fa fa-link"></i></a></li>
-								</ul>
-							</li>
-							
-							<li class="portfolio-item">
-								<img src="img/portfolio/item6.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
-								<figcaption class="mask">
-									<h3>Wall street</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
-								</figcaption>
-								<ul class="external">
-									<li><a class="fancybox" title="Wall street 6" data-fancybox-group="works" href="img/portfolio/item6.jpg"><i class="fa fa-search"></i></a></li>
-									<li><a href=""><i class="fa fa-link"></i></a></li>
-								</ul>
-							</li>
-						</ul>
-						
-					</div>
-				</div>
-			</section>
-			<!-- end portfolio section -->
-			
-			<!-- Testimonial section -->
-			<section id="testimonials" class="parallax">
-				<div class="overlay">
-					<div class="container">
-						<div class="row">
-						
-							<div class="sec-title text-center white wow animated fadeInDown">
-								<h2>What people say</h2>
-							</div>
-							
-							<div id="testimonial" class=" wow animated fadeInUp">
-								<div class="testimonial-item text-center">
-									<img src="img/member-1.jpg" alt="Our Clients">
-									<div class="clearfix">
-										<span>Katty Flower</span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-								<div class="testimonial-item text-center">
-									<img src="img/member-1.jpg" alt="Our Clients">
-									<div class="clearfix">
-										<span>Katty Flower</span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-								<div class="testimonial-item text-center">
-									<img src="img/member-1.jpg" alt="Our Clients">
-									<div class="clearfix">
-										<span>Katty Flower</span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-						
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- end Testimonial section -->
-			
-			<!-- Price section -->
-			<section id="price">
-				<div class="container">
-					<div class="row">
-					
-						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Price</h2>
-							<p>Our price for your company</p>
-						</div>
-						
-						<div class="col-md-4 wow animated fadeInUp">
-							<div class="price-table text-center">
-								<span>Silver</span>
-								<div class="value">
-									<span>$</span>
-									<span>24,35</span><br>
-									<span>month</span>
-								</div>
-								<ul>
-									<li>No Bonus Points</li>
-									<li>No Bonus Points</li>
-									<li>No Bonus Points</li>
-									<li>No Bonus Points</li>
-									<li><a href="#">sign up</a></li>
-								</ul>
-							</div>
-						</div>
-						
-						<div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.4s">
-							<div class="price-table featured text-center">
-								<span>Gold</span>
-								<div class="value">
-									<span>$</span>
-									<span>50,00</span><br>
-									<span>month</span>
-								</div>
-								<ul>
-									<li>Free Trial</li>
-									<li>Free Trial</li>
-									<li>Free Trial</li>
-									<li>Free Trial</li>
-									<li><a href="#">sign up</a></li>
-								</ul>
-							</div>
-						</div>
-						
-						<div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.8s">
-							<div class="price-table text-center">
-								<span>Diamond</span>
-								<div class="value">
-									<span>$</span>
-									<span>123,12</span><br>
-									<span>month</span>
-								</div>
-								<ul>
-									<li>All Bonus Points</li>
-									<li>All Bonus Points</li>
-									<li>All Bonus Points</li>
-									<li>All Bonus Points</li>
-									<li><a href="#">sign up</a></li>
-								</ul>
-							</div>
-						</div>
-		
-					</div>
-				</div>
-			</section>
-			<!-- end Price section -->
-			
 			<!-- Social section -->
 			<section id="social" class="parallax">
 				<div class="overlay">
