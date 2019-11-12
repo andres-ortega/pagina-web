@@ -262,14 +262,14 @@
 						<div class="row">
 						
 							<div class="sec-title text-center white wow animated fadeInDown">
-								<h2>FOLLOW US</h2>
-								<p>Beautifully simple follow buttons to help you get followers on</p>
+								<h2>SIGUENOS</h2>
+								<p>Redes sociales Suppor Effect</p>
 							</div>
 							
 							<ul class="social-button">
-								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-thumbs-up fa-2x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-twitter fa-2x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa fa-dribbble fa-2x"></i></a></li>							
+								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-comment fa-2x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa  fa-instagram fa-2x"></i></a></li>							
 							</ul>
 							
 						</div>
@@ -284,35 +284,42 @@
 					<div class="row">
 						
 						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Contact</h2>
-							<p>Leave a Message</p>
+							<h2>Contáctanos</h2>
+							<p>Escríbenos tus inquietudes</p>
 						</div>
 						
 						
 						<div class="col-md-7 contact-form wow animated fadeInLeft">
 							<form action="#" method="post">
 								<div class="input-field">
-									<input type="text" name="name" class="form-control" placeholder="Your Name...">
+									<input type="text" name="name" class="form-control" placeholder="Nombre...">
 								</div>
 								<div class="input-field">
-									<input type="email" name="email" class="form-control" placeholder="Your Email...">
+									<input type="email" name="email" class="form-control" placeholder="Email...">
 								</div>
 								<div class="input-field">
-									<input type="text" name="subject" class="form-control" placeholder="Subject...">
+									<input type="text" name="subject" class="form-control" placeholder="Asunto...">
 								</div>
 								<div class="input-field">
-									<textarea name="message" class="form-control" placeholder="Messages..."></textarea>
+									<textarea name="message" class="form-control" placeholder="Mensaje..."></textarea>
 								</div>
-						       	<button type="submit" id="submit" class="btn btn-blue btn-effect">Send</button>
+						       	<button type="submit" id="submit" class="btn btn-blue btn-effect">Enviar</button>
 							</form>
 						</div>
 						
 						<div class="col-md-5 wow animated fadeInRight">
 							<address class="contact-details">
-								<h3>Contact Us</h3>						
-								<p><i class="fa fa-pencil"></i>Phoenix Inc.<span>PO Box 345678</span> <span>Little Lonsdale St, Melbourne </span><span>Australia</span></p><br>
-								<p><i class="fa fa-phone"></i>Phone: (415) 124-5678 </p>
-								<p><i class="fa fa-envelope"></i>website@yourname.com</p>
+								<h3>Contáctanos</h3>						
+								<p><i class="fa fa-dot-circle-o"></i>Support Effect</p><br>
+								<p><i class="fa fa-map-marker"></i>Cali, Valle del Cauca</p>
+								<p><i class="fa fa-globe"></i>Colombia</p>
+								<p><i class="fa fa-phone"></i>Celular: 304-569-9281 </p>
+								<p><i class="fa fa-envelope"></i>supporteffect01@gmail.com</p>
+								<br>
+								<p><i class="fa fa-map-marker"></i>Puerto Asís, Putumayo</p>
+								<p><i class="fa fa-globe"></i>Colombia</p>
+								<p><i class="fa fa-phone"></i>Celular: 302-328-0893 </p>
+								<p><i class="fa fa-envelope"></i>supporteffect01@gmail.com</p>
 							</address>
 						</div>
 			
@@ -332,12 +339,13 @@
 				<div class="row text-center">
 					<div class="footer-content">
 						<div class="wow animated fadeInDown">
-							<p>newsletter signup</p>
-							<p>Get Cool Stuff! We hate spam!</p>
+							<p>Ingresa tu correo Electrónico</p>
+							<p>para estar informado de futuras ofertas o cupones de descuento</p>
+							
 						</div>
 						<form action="#" method="post" class="subscribe-form wow animated fadeInUp">
 							<div class="input-field">
-								<input type="email" class="subscribe form-control" placeholder="Enter Your Email...">
+								<input type="email" class="subscribe form-control" placeholder="Ingerese su Correo electrónico...">
 								<button type="submit" class="submit-icon">
 									<i class="fa fa-paper-plane fa-lg"></i>
 								</button>
@@ -345,15 +353,14 @@
 						</form>
 						<div class="footer-social">
 							<ul>
-								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-thumbs-up fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-twitter fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa fa-skype fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.9s"><a href="#"><i class="fa fa-dribbble fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="1.2s"><a href="#"><i class="fa fa-youtube fa-3x"></i></a></li>
+								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-facebook-square fa-3x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-comment fa-3x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa fa-instagram fa-3x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.9s"><a href="#"><i class="fa fa-envelope fa-3x"></i></a></li>
 							</ul>
 						</div>
 						
-						<p>Copyright &copy; 2014-2015 Design and Developed By<a href="http://www.themefisher.com">Themefisher</a> </p>
+						<p>Copyright &copy; 2019 Diseñado y Desarrollado por Support Effect. </p>
 					</div>
 				</div>
 			</div>
