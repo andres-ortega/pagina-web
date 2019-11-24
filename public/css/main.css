@@ -21,6 +21,17 @@ body {
     font-size: 16px;
     color: #818181;
 }
+/*insertar imagen logo responsive and configure*/
+
+
+#logo-image{
+    width: 50px; 
+    height: 50px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+/* end insertar imagen logo responsive and configure*/
 
 figure, p, address {
     margin: 0;
@@ -285,7 +296,7 @@ main > section {
 }
 
 #navigation.animated-header {
-    padding: 20px 0;
+    padding: 5px 0;
 }
 
 h1.navbar-brand {

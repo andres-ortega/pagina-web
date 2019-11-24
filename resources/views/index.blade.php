@@ -11,9 +11,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Support Effect</title>		
 		<!-- Meta Description -->
-        <meta name="description" content="Blue One Page Creative HTML5 Template">
+        <meta name="description" content="Sitio Web Support Effect Oficial">
         <meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
-        <meta name="author" content="Muhammad Morshed">
+        <meta name="author" content="Ortega">
 		
 		<!-- Mobile Specific Meta -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,9 +69,11 @@
 					<!-- /responsive nav button -->
 					
 					<!-- logo -->
-					<h1 class="navbar-brand">
-						<a href="#body">Support Effect</a>
-					</h1>
+					
+					
+					<!--insertar imagen logo-->
+					<a  href="#body"><img id="logo-image" src="img/author.jpg" alt="" title=""></a>
+					
 					<!-- /logo -->
                 </div>
 
@@ -123,7 +125,8 @@
                             <div class="caption-content">
                                 <h2>Desarrollo web</h2>
                                 <span>diseñamos y creamos sitios web receptivos y confiables</span>
-                                <a href="#contact" class="btn btn-blue btn-effect">Contáctanos</a>
+								<a href="#contact" class="btn btn-blue btn-effect">Contáctanos</a><br>
+								
                             </div>
                         </div>
 						
@@ -133,10 +136,10 @@
 						
 						<div class="bg-img bg-img-3"></div>
 						<div class="slide-caption">
-                            <div class="caption-content">
+                            <div class="caption-content" > <br>
                                 <h2>Mantenimiento de computadores</h2>
 								<span>¿Problema con su equipo de cómputo?</span>
-								<span>nosotros lo resolvemos</span>
+								<span>nosotros lo resolvemos </span>
                                 <a href="#contact" class="btn btn-blue btn-effect">Contáctanos</a>
                             </div>
                         </div>
@@ -234,7 +237,7 @@
 									<i class="fa fa-book fa-3x"></i>
 								</div>
 								<h3>Trabajos académicos y multimedia</h3>
-								<p>Trabajos relacionados con el Paquete Office(Word, Excel, PowerPoint) y edición de videos. </p>
+								<p>Trabajos relacionados con el Paquete Office(Word, Excel, PowerPoint) y edición de videos. <br></p>
 							</div>
 						</div>
 					
@@ -328,9 +331,7 @@
 			</section>
 			<!-- end Contact section -->
 			
-			<section id="google-map">
-				<div id="map-canvas" class="wow animated fadeInUp"></div>
-			</section>
+			
 		
 		</main>
 		
